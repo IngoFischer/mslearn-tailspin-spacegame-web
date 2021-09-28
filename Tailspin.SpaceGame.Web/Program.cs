@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore;
+﻿// top of the file
+using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
 namespace TailSpin.SpaceGame.Web
